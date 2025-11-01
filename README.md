@@ -1,8 +1,13 @@
-Hi, I’m Nsengimana, a passionate **Full Stack Developer** driven by one mission —
-using digital technology to make life simpler.
+---
 
-I started coding out of curiosity, but it quickly became a purpose:
-to build useful, clean, and meaningful solutions that help people.
-I love learning, building, and sharing everything I discover along the way.
+I'm **Nsengimana**, also known as **Imana47**, a **Full Stack Developer** passionate about digital technology.
 
-Code with purpose. Build with impact
+I love creating **simple, modern, and useful** solutions that have a real impact on people's lives.
+
+I work in several fields: **web and mobile development**, **artificial intelligence**, **cybersecurity**, and **creative design**.
+
+I enjoy learning, sharing, understanding, and improving what I do every day, with rigor and curiosity.
+
+For me, **digital technology** is more than a job: it's a way **to simplify life, bring ideas to life**, and provide **solutions to problems here and elsewhere**.
+
+---
